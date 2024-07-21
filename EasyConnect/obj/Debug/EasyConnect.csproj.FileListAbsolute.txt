@@ -1,0 +1,10 @@
+D:\Work\VS2022\EasyConnect\EasyConnect\bin\Debug\EasyConnect.exe.config
+D:\Work\VS2022\EasyConnect\EasyConnect\bin\Debug\EasyConnect.exe
+D:\Work\VS2022\EasyConnect\EasyConnect\bin\Debug\EasyConnect.pdb
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csproj.AssemblyReference.cache
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.Form1.resources
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.Properties.Resources.resources
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csproj.GenerateResource.cache
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csproj.CoreCompileInputs.cache
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.exe
+D:\Work\VS2022\EasyConnect\EasyConnect\obj\Debug\EasyConnect.pdb
